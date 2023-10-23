@@ -2,6 +2,8 @@
 
 Scan Go projects to list (direct) usages of a specified dependency.
 
+All code written by ChatGPT 4.
+
 ### Example
 
 Assuming the Go projects are next to each other under a root folder:
